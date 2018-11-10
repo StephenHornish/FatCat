@@ -168,10 +168,26 @@
     </LinearLayout>
 
     <ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+        android:id="@+id/ScrollList"
         android:layout_width="fill_parent"
         android:layout_height="fill_parent"
         android:layout_marginStart="5dp">
     </ScrollView>
+
+    <RelativeLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center">
+
+        <Button
+            android:id="@+id/CreateEventSubmit"
+            android:layout_width="120dp"
+            android:layout_height="wrap_content"
+            android:background="@drawable/mybutton"
+            android:text="Create the Event"
+            android:textColor="#fff" />
+
+    </RelativeLayout>
 
 
 </LinearLayout>
