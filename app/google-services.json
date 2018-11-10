@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "46803692175",
+    "firebase_url": "https://fat-cat-784a2.firebaseio.com",
+    "project_id": "fat-cat-784a2",
+    "storage_bucket": "fat-cat-784a2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:46803692175:android:e5a3d0c5390ff9cb",
+        "android_client_info": {
+          "package_name": "com.example.stephen.fatcat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "46803692175-jm45bku2sr0896dpols47m91o96v84v9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCvsHVQKPnPgoaBDoWdskclsmJneLaaS7w"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
